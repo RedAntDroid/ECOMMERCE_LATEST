@@ -19,7 +19,7 @@ We'll create APIs for:
 
 - **User Authentication**: Allowing users to register and log in.
 - **Product Management**: Adding, updating, and retrieving product data.
-- **Order Handling**: Managing customer orders.
+- **Order Handling**: Managing customer orders..
 
 ### 3. Database Schema Design
 
