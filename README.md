@@ -31,3 +31,6 @@ Authentication ensures only the right people can access certain features. For ex
 
 - Users need to log in to place orders or see their personal data.
 - It keeps the app secure by verifying users' identities.
+
+# milestone 2:
+In the repo that I have already created for Ecommerce_follow_along I cloned and created a cra app and installed tailwindcss and I created the login page UI .
