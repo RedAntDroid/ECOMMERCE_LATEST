@@ -41,3 +41,9 @@ In the repo that I have already created for Ecommerce_follow_along I cloned and 
 - Initialized and configured a Node.js server to handle API requests.
 - Connected the application to MongoDB to store and manage data.
 - Implemented basic error handling to ensure smooth server operation.
+
+## Milestone 4:
+
+- Created a User Model to define how user data is structured in the database.
+- Developed a User Controller to manage user interactions, like adding or retrieving data.
+- Configured Multer to handle file uploads, allowing users to store files such as images.
