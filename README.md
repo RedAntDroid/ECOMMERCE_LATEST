@@ -59,3 +59,39 @@ In this milestone, we implemented user login authentication by validating creden
 
 ## Milestone 8
 In this milestone, we created a reusable product card component and designed a homepage to display multiple cards dynamically. The component receives product details as props and is rendered using array mapping. This improves UI consistency, enhances user experience, and maintains an organized layout for showcasing products effectively.
+# Milestone 9 - Creating a Product Form
+
+## Why Create a Product Form?
+The Product Form is essential for adding new products to the database. It allows users to input product details, which will be stored in MongoDB Atlas and displayed on the Products Home Page.
+
+## Key Features of the Product Form:
+- *Product Details Input:* The form collects essential details like:
+  - Product Name  
+  - Price  
+  - Category  
+  - Description  
+  - Stock Availability  
+- *Data Storage:* The entered data will be saved in MongoDB Atlas.  
+- *Future Enhancements (for experimentation):*  
+  - *Admin Access:* Only admins can upload products.  
+  - *Shop Profiles:* A user with a "Shop Profile" can add and manage products.  
+
+## Steps to Implement:
+1. *Create a Product Form* in *React/HTML* to collect product details.  
+2. *Handle Form Submission* to store the product data in MongoDB.  
+3. *Restrict Access* (Optional Enhancements) based on user roles (Admin/Shop).  
+
+This milestone helps in understanding how to structure and manage product data efficiently.
+
+# Milestone 10 Summary
+
+In this milestone, you'll learn how to create a *mongoose schema* for products and build an *endpoint* to store product details in MongoDB. The main steps include:
+
+## 1. Product Schema
+- Define the structure for product data (e.g., name, description, price) with validation for required fields and correct data types.
+
+## 2. Endpoint Creation
+- Build a POST endpoint to receive product data, validate it, and save it to MongoDB.
+
+## 3. Validation
+- Ensure only valid data is saved, which helps maintain data integrity and prevent errors.
