@@ -95,3 +95,9 @@ In this milestone, you'll learn how to create a *mongoose schema* for products a
 
 ## 3. Validation
 - Ensure only valid data is saved, which helps maintain data integrity and prevent errors.
+
+## Milestone 11 :
+In this milestone, we created a My Products page that displays a list of products created by the user. The page fetches products from the database based on the user's email and displays them in a grid layout. This allows users to view and manage their products efficiently.
+
+ ## Milestone 12 :
+we created a My Products page that displays a list of products created by the user. The page fetches products from the database based on the user's email and displays them in a grid layout. This allows users to view and manage their products efficiently.
