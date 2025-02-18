@@ -101,3 +101,9 @@ In this milestone, we created a My Products page that displays a list of product
 
  ## Milestone 12 :
 we created a My Products page that displays a list of products created by the user. The page fetches products from the database based on the user's email and displays them in a grid layout. This allows users to view and manage their products efficiently.
+
+## Milesone 13:
+created a myproducts.jsx file while we created a edit button which will update the changes to the database file.
+
+##Milestone 14:
+edited a myproducts.jsx file while we created a delete button which will update the changes to the database file.
